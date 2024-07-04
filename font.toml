@@ -1,0 +1,6 @@
+import = [
+  "~/.config/alacritty/fonts/jetbrains-mono.toml"
+]
+
+[font]
+size = 15
