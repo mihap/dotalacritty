@@ -8,3 +8,7 @@ TERM = "xterm-256color"
 [window]
 opacity = 0.98
 decorations = "None"
+
+[shell]
+program = "/opt/homebrew/bin/zsh"
+args = ["-l", "-c", "zellij"]
