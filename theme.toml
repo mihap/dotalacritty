@@ -9,7 +9,3 @@ TERM = "xterm-256color"
 opacity = 0.98
 decorations = "None"
 option_as_alt = "Both"
-
-[shell]
-program = "/opt/homebrew/bin/zsh"
-args = ["-l", "-c", "zellij"]
